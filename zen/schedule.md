@@ -4,7 +4,6 @@
 开源库名 | 认领者 | Buddy | Demo | 功能介绍 | 详细设计 | 流程图 | 总体设计 | 完成  
 :--|:-- |:--  |:--  |:--  |:--  |:--  |:--  |:--  |
 [Picasso](https://github.com/square/picasso) | [Trinea](https://github.com/Trinea) | | 06/19 | 06/20 | 06/25 | 06/27 | 06/30 | 07/01 
-[okhttp](https://github.com/square/okhttp) | [ayyb1988](https://github.com/ayyb1988) | | 06/21 | 06/29 | 07/10 | 07/20 | 08/00 | 08/15 
 [ijkplayer](https://github.com/Bilibili/ijkplayer) | [ayyb1988](https://github.com/ayyb1988) | | 06/21 | 06/29 | 07/10 | 07/20 | 08/00 | 08/15 
 
 ####3. 二期计划(进行中)
